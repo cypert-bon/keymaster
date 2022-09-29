@@ -1,16 +1,4 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
-
-/*
-   ----colors----
-#f2ac20
-#4265d6
-#344a5f
-#2a94d6
-#181D20 - blue balck
-#1A8FE3 - blue
-#FCA311 orange
-linear-gradient(45deg, #032539, #f8d116); - bg
-*/
 * {
   font-family: "Poppins", sans-serif;
 }
@@ -151,7 +139,7 @@ body {
 			position: relative;
 			top: 500px;
 			width: 100%;
-			background: #3a4750;
+			background: #101010;
 			margin: auto;
 			padding: 20px 0px;
 			text-align: center;
@@ -171,13 +159,13 @@ body {
 			text-align: center;
 			display: flex;
 			background: ;	
-			color: #f8d116;
+			color: #191919;
 			padding: 7px;
 			margin: auto;
 			justify-content: center;
 			align-items: center;
 			border-radius: 50%;
-			border: 2px solid #337def;
+			background: #f9004d;
 			font-size: 30px;
 } 
 .footer .fsm .footer-icon i:nth-child(5) {
